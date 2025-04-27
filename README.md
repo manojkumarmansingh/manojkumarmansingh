@@ -19,13 +19,11 @@
 
 ---
 
-### 🛠️ Skills and Tools:
+### 🛠️ Technologies I Use:
 <p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
 ---
@@ -81,3 +79,13 @@
 </p>
 
 ---
+
+### ✍️ Blogs
+- [Understanding JavaScript Closures](https://medium.com/@manojkumarmansingh/javascript-closures-explained-12345)
+- [CSS Grid vs Flexbox](https://dev.to/manojkumarmansingh/css-grid-vs-flexbox-which-one-to-use-67890)
+- [Getting Started with Git and GitHub](https://hashnode.com/@manojkumarmansingh/getting-started-with-git-and-github)
+
+### ☕ Support Me
+If you like my work, consider buying me a coffee:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/manojkumarmansingh)
