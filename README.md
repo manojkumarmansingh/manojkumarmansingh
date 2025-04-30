@@ -11,10 +11,10 @@
 ---
 
 ### ✨ About Me
-- 🇮🇳 From India
-- 🌱 Currently learning Frontend and Backend Development
-- 💬 Ask me about HTML, CSS, JavaScript, Python, Git
-- 🎯 Goal: Full Stack Developer
+- 🇮🇳 From India  
+- 🌱 Currently learning Frontend and Backend Development  
+- 💬 Ask me about HTML, CSS, JavaScript, Python, Git  
+- 🎯 Goal: Full Stack Developer  
 - ⚡ Fun fact: I love coding and coffee!
 
 ---
@@ -38,9 +38,7 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manojkumarmansingh&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://streak-stats.demolab.com?user=manojkumarmansingh&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -68,8 +66,20 @@
 ---
 
 ### 📫 Connect with Me:
-- [LinkedIn Profile](https://www.linkedin.com/in/manojkumarmansingh)
+- [LinkedIn](https://www.linkedin.com/in/manojkumarmansingh)  
 - [Instagram](https://instagram.com/manojkumarmansingh)
+
+---
+
+### ✍️ Blogs:
+- [Understanding JavaScript Closures](https://medium.com/@manojkumarmansingh/javascript-closures-explained-12345)
+- [CSS Grid vs Flexbox](https://dev.to/manojkumarmansingh/css-grid-vs-flexbox-which-one-to-use-67890)
+- [Getting Started with Git and GitHub](https://hashnode.com/@manojkumarmansingh/getting-started-with-git-and-github)
+
+---
+
+### ☕ Support Me:
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/manojkumarmansingh)
 
 ---
 
@@ -77,15 +87,3 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/manojkumarmansingh/count.svg" alt="Visitor Count" />
 </p>
-
----
-
-### ✍️ Blogs
-- [Understanding JavaScript Closures](https://medium.com/@manojkumarmansingh/javascript-closures-explained-12345)
-- [CSS Grid vs Flexbox](https://dev.to/manojkumarmansingh/css-grid-vs-flexbox-which-one-to-use-67890)
-- [Getting Started with Git and GitHub](https://hashnode.com/@manojkumarmansingh/getting-started-with-git-and-github)
-
-### ☕ Support Me
-If you like my work, consider buying me a coffee:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/manojkumarmansingh)
