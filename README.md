@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Manoj Kumar Mansingh! 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26u4cqQna0yYg4UnK/giphy.gif" width="200" height="200" alt="Coding GIF"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNyeXozZTNwbzJycWVqY2I1ZGtvMDFuaGN1Z2duMzNtbnU2MDU5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif" width="200" height="200" alt="Coding GIF"/>
 </p>
 
 <p align="center">
@@ -28,32 +28,16 @@
 
 ---
 
-### 📚 Top Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumarmansingh&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manojkumarmansingh&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=manojkumarmansingh&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
 ### 🏆 GitHub Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=manojkumarmansingh&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-
----
-
-### ⚡ Recent GitHub Activity:
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=manojkumarmansingh&theme=radical" alt="Activity Graph"/>
 </p>
 
 ---
