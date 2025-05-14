@@ -53,12 +53,6 @@
 - [LinkedIn](https://www.linkedin.com/in/manojkumarmansingh)  
 - [Instagram](https://instagram.com/manojkumarmansingh)
 
----
-
-### ✍️ Blogs:
-- [Understanding JavaScript Closures](https://medium.com/@manojkumarmansingh/javascript-closures-explained-12345)
-- [CSS Grid vs Flexbox](https://dev.to/manojkumarmansingh/css-grid-vs-flexbox-which-one-to-use-67890)
-- [Getting Started with Git and GitHub](https://hashnode.com/@manojkumarmansingh/getting-started-with-git-and-github)
 
 ---
 
