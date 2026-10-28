@@ -31,6 +31,7 @@ A dependency-free Python toolkit for common DNA analyses, with both a command li
 
 <div align="center">
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://dnasequencetoolkit.streamlit.app/)
 [![View Source Code](https://img.shields.io/badge/View%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojkumarmansingh/dna-sequence-toolkit)
 [![Tests](https://img.shields.io/badge/tests-75%20passing-2E7D5B?style=for-the-badge)](https://github.com/manojkumarmansingh/dna-sequence-toolkit/actions/workflows/tests.yml)
 [![Python](https://img.shields.io/badge/python-3.9%20to%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -51,7 +52,9 @@ What it does:
 
 Repository: **[github.com/manojkumarmansingh/dna-sequence-toolkit](https://github.com/manojkumarmansingh/dna-sequence-toolkit)**
 
-There is no hosted demo for this project yet. To run it locally, clone the repository and follow the README.
+Live demo: **https://dnasequencetoolkit.streamlit.app/**
+
+You can also run it locally by cloning the repository and following the README.
 
 ---
 
