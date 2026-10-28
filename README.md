@@ -25,48 +25,41 @@ I am looking for entry-level roles and research assistantships in QA/QC, diagnos
 
 ---
 
-## 🧬 Featured Project: DNA Sequence Analysis Toolkit
+## 🧬 Featured Project
 
-A dependency-free Python toolkit for common DNA analyses, with both a command line and a Streamlit web interface. No NumPy, no Biopython: every calculation is written out so the biology is visible in the code.
+### DNA Sequence Analysis Toolkit
+
+Python toolkit for DNA analysis. GC content, reverse complement, translation, ORFs and restriction sites. No dependencies.
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://dnasequencetoolkit.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://dnasequencetoolkit.streamlit.app/)
 [![View Source Code](https://img.shields.io/badge/View%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojkumarmansingh/dna-sequence-toolkit)
 [![Tests](https://img.shields.io/badge/tests-75%20passing-2E7D5B?style=for-the-badge)](https://github.com/manojkumarmansingh/dna-sequence-toolkit/actions/workflows/tests.yml)
-[![Python](https://img.shields.io/badge/python-3.9%20to%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-2E7D5B?style=for-the-badge)](https://github.com/manojkumarmansingh/dna-sequence-toolkit/blob/main/LICENSE)
 
 </div>
 
-What it does:
-
-- **DNA sequence statistics**: length, base composition and approximate molecular weight
-- **GC content**, with ambiguous bases excluded from the denominator
-- **Reverse complement**, handling mixed case and N
-- **Transcription**, converting DNA to RNA
-- **Translation** in any reading frame, using the standard genetic code
-- **ORF detection** across all three frames on both strands, with configurable start codons
-- **Restriction-site analysis** for 12 common enzymes, including sites spanning the origin of a circular molecule
-- **k-mer counting** for any k
-
-Repository: **[github.com/manojkumarmansingh/dna-sequence-toolkit](https://github.com/manojkumarmansingh/dna-sequence-toolkit)**
-
-Live demo: **https://dnasequencetoolkit.streamlit.app/**
-
-You can also run it locally by cloning the repository and following the README.
+- GC content and base composition
+- Reverse complement, transcription, translation
+- ORF detection on both strands
+- Restriction sites, circular aware
+- k-mer counting
+- CLI and Streamlit interface
 
 ---
 
-## Other projects
+## 🧪 Other Projects
 
-**CarbonWise** estimates an annual carbon footprint from transport, electricity, flights and diet, then gives tailored advice. Built with Next.js, React and TypeScript.
+**CarbonWise** estimates your annual carbon footprint and suggests ways to cut it. Next.js, React, TypeScript.
 
-[Live demo](https://carbonwise-sigma.vercel.app) · [Source](https://github.com/manojkumarmansingh/carbonwise)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-2E7D5B?style=for-the-badge&logo=vercel&logoColor=white)](https://carbonwise-sigma.vercel.app)
+[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojkumarmansingh/carbonwise)
 
-**Smart Lab Assistant** generates lab procedures, material lists and safety notes for students through a serverless API. Built with HTML, JavaScript and a serverless function.
+**Smart Lab Assistant** generates lab procedures, material lists and safety notes. HTML, JavaScript, serverless API.
 
-[Live demo](https://smart-lab-assistant.vercel.app) · [Source](https://github.com/manojkumarmansingh/Smart-Lab-Assistant)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-2E7D5B?style=for-the-badge&logo=vercel&logoColor=white)](https://smart-lab-assistant.vercel.app)
+[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojkumarmansingh/Smart-Lab-Assistant)
 
 ---
 
@@ -90,7 +83,7 @@ You can also run it locally by cloning the repository and following the README.
 
 ## 📊 GitHub Stats
 
-My contribution graph, activity and full repository list live on GitHub:
+My contribution graph and full repository list live on GitHub.
 
 **[View my GitHub profile](https://github.com/manojkumarmansingh)**
 
