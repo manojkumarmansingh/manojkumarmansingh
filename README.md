@@ -1,67 +1,80 @@
-<h1 align="center">Hi, I'm Manoj Kumar Mansingh! 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNyeXozZTNwbzJycWVqY2I1ZGtvMDFuaGN1Z2duMzNtbnU2MDU5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif" width="200" height="200" alt="Coding GIF"/>
-</p>
+# Manoj Kumar Mansingh
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Passionate+Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
+**M.Sc. Biotechnology (final year) · Python for biological data**
 
----
+*I turn sequences and spreadsheets into answers, and sometimes into software.*
 
-### ✨ About Me
-- 🇮🇳 From India  
-- 🌱 Currently learning Frontend and Backend Development  
-- 💬 Ask me about HTML, CSS, JavaScript, Python, Git  
-- 🎯 Goal: Full Stack Developer  
-- ⚡ Fun fact: I love coding and coffee!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojkumarmansingh)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manojkumarmansingh)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:manojkumarmansingh@users.noreply.github.com)
+
+</div>
 
 ---
 
-### 🛠️ Technologies I Use:
-<p>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
+## About
+
+I am a final-year M.Sc. Biotechnology student interested in the point where molecular biology meets code: sequence analysis, biological data handling, and the small tools that make both less tedious.
+
+My background spans molecular biology and laboratory work. I have also taught as a special educator, which shaped how carefully I document and explain things. Alongside my degree I build software: a Python toolkit for DNA sequence analysis, and a couple of deployed web apps.
+
+I am looking for entry-level roles and research assistantships in QA/QC, diagnostics or bioinformatics. I am based in Odisha and open to relocation.
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojkumarmansingh&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
+## Featured project
+
+### DNA Sequence Analysis Toolkit
+
+A dependency-free Python toolkit for common DNA analyses, with both a command line and a Streamlit web interface. No NumPy, no Biopython: every calculation is written out so the biology is visible in the code.
+
+[![Repository](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manojkumarmansingh/dna-sequence-toolkit)
+[![Tests](https://img.shields.io/badge/tests-61%20passing-2E7D5B?style=flat-square)](#)
+[![Python](https://img.shields.io/badge/python-3.9%20to%203.12-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![License](https://img.shields.io/badge/license-MIT-2E7D5B?style=flat-square)](#)
+
+- GC content and base composition, with explicit handling of ambiguous bases
+- Reverse complement, transcription and translation in any reading frame
+- ORF finding across all three frames on both strands, with configurable start codons
+- Restriction-site mapping, including sites that span the origin of a circular molecule
+- FASTA parsing with record-level validation and readable error messages
 
 ---
 
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manojkumarmansingh&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
+## Other projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [CarbonWise](https://carbonwise-sigma.vercel.app) | Estimates an annual carbon footprint from transport, electricity, flights and diet, then gives tailored advice | Next.js, React, TypeScript |
+| [Smart Lab Assistant](https://smart-lab-assistant.vercel.app) | Generates lab procedures, material lists and safety notes for students, via a serverless API | HTML, JavaScript, serverless |
 
 ---
 
-### 💬 Quote of the Day:
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
+## Tools I work with
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-### 📫 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/manojkumarmansingh)  
-- [Instagram](https://instagram.com/manojkumarmansingh)
+## Currently
 
-
----
-
-### ☕ Support Me:
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/manojkumarmansingh)
+- Finishing my M.Sc. dissertation
+- Learning R and statistics for omics data
+- Preparing for CSIR-NET, DBT-JRF and GATE-BT
 
 ---
 
-### ✨ Visitor Count:
-<p align="center">
-  <img src="https://profile-counter.glitch.me/manojkumarmansingh/count.svg" alt="Visitor Count" />
-</p>
+<div align="center">
+
+*Open to conversations about QA/QC, diagnostics and bioinformatics roles.*
+
+</div>
