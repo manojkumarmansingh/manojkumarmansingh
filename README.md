@@ -19,7 +19,7 @@ I am a final-year M.Sc. Biotechnology student interested in the point where mole
 
 My background spans molecular biology and laboratory work. I have also taught as a special educator, which shaped how carefully I document and explain things. Alongside my degree I build software: a Python toolkit for DNA sequence analysis, and a couple of deployed web apps.
 
-I am looking for entry-level roles and research assistantships in QA/QC, diagnostics or bioinformatics. I am based in Odisha and open to relocation.
+I am looking for entry-level roles and research assistantships in QA/QC, diagnostics or bioinformatics. I am based in Odisha.
 
 ---
 
@@ -30,9 +30,9 @@ I am looking for entry-level roles and research assistantships in QA/QC, diagnos
 A dependency-free Python toolkit for common DNA analyses, with both a command line and a Streamlit web interface. No NumPy, no Biopython: every calculation is written out so the biology is visible in the code.
 
 [![Repository](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manojkumarmansingh/dna-sequence-toolkit)
-[![Tests](https://img.shields.io/badge/tests-61%20passing-2E7D5B?style=flat-square)](#)
-[![Python](https://img.shields.io/badge/python-3.9%20to%203.12-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-[![License](https://img.shields.io/badge/license-MIT-2E7D5B?style=flat-square)](#)
+[![Tests](https://img.shields.io/badge/tests-75%20passing-2E7D5B?style=flat-square)](https://github.com/manojkumarmansingh/dna-sequence-toolkit/actions/workflows/tests.yml)
+[![Python](https://img.shields.io/badge/python-3.9%20to%203.12-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-2E7D5B?style=flat-square)](https://github.com/manojkumarmansingh/dna-sequence-toolkit/blob/main/LICENSE)
 
 - GC content and base composition, with explicit handling of ambiguous bases
 - Reverse complement, transcription and translation in any reading frame
@@ -61,14 +61,6 @@ A dependency-free Python toolkit for common DNA analyses, with both a command li
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## Currently
-
-- Finishing my M.Sc. dissertation
-- Learning R and statistics for omics data
-- Preparing for CSIR-NET, DBT-JRF and GATE-BT
 
 ---
 
