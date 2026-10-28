@@ -95,13 +95,7 @@ My contribution graph, activity and full repository list live on GitHub:
 
 ## 📬 Connect with Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Kumar%20Mansingh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojkumarmansingh)
-[![GitHub](https://img.shields.io/badge/GitHub-manojkumarmansingh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojkumarmansingh)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/manojkumarmansingh)
-
-</div>
+Find me on [LinkedIn](https://www.linkedin.com/in/manojkumarmansingh) or [GitHub](https://github.com/manojkumarmansingh).
 
 ---
 
