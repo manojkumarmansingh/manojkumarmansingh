@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2E7D5B&center=true&vCenter=true&width=560&height=40&lines=Biotechnology+%C3%97+Python+%C3%97+Bioinformatics;M.Sc.+Biotechnology+%28final+year%29;Building+tools+for+biological+data" alt="Biotechnology, Python, Bioinformatics"></a>
+*I turn sequences and spreadsheets into answers, and sometimes into software.*
 
 <br>
 
@@ -75,16 +75,6 @@ There is no hosted demo for this project yet. To run it locally, clone the repos
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## GitHub at a glance
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=manojkumarmansingh&show_icons=true&hide=contribs&theme=tokyonight&border_radius=8" alt="GitHub statistics" width="420">
 
 </div>
 
