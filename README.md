@@ -1,13 +1,15 @@
 <div align="center">
 
-# Manoj Kumar Mansingh
+<img src="assets/banner.png" alt="Manoj Kumar Mansingh, Biotechnology × Python × Bioinformatics" width="100%">
 
-**M.Sc. Biotechnology (final year) · Python for biological data**
+<br>
 
-*I turn sequences and spreadsheets into answers, and sometimes into software.*
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2E7D5B&center=true&vCenter=true&width=560&height=40&lines=Biotechnology+%C3%97+Python+%C3%97+Bioinformatics;M.Sc.+Biotechnology+%28final+year%29;Building+tools+for+biological+data" alt="Biotechnology, Python, Bioinformatics"></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojkumarmansingh)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manojkumarmansingh)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojkumarmansingh)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojkumarmansingh)
 
 </div>
 
@@ -29,10 +31,14 @@ I am looking for entry-level roles and research assistantships in QA/QC, diagnos
 
 A dependency-free Python toolkit for common DNA analyses, with both a command line and a Streamlit web interface. No NumPy, no Biopython: every calculation is written out so the biology is visible in the code.
 
-[![Repository](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manojkumarmansingh/dna-sequence-toolkit)
-[![Tests](https://img.shields.io/badge/tests-75%20passing-2E7D5B?style=flat-square)](https://github.com/manojkumarmansingh/dna-sequence-toolkit/actions/workflows/tests.yml)
-[![Python](https://img.shields.io/badge/python-3.9%20to%203.12-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-2E7D5B?style=flat-square)](https://github.com/manojkumarmansingh/dna-sequence-toolkit/blob/main/LICENSE)
+<div align="center">
+
+[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojkumarmansingh/dna-sequence-toolkit)
+[![Tests](https://img.shields.io/badge/tests-75%20passing-2E7D5B?style=for-the-badge)](https://github.com/manojkumarmansingh/dna-sequence-toolkit/actions/workflows/tests.yml)
+[![Python](https://img.shields.io/badge/python-3.9%20to%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-2E7D5B?style=for-the-badge)](https://github.com/manojkumarmansingh/dna-sequence-toolkit/blob/main/LICENSE)
+
+</div>
 
 - GC content and base composition, with explicit handling of ambiguous bases
 - Reverse complement, transcription and translation in any reading frame
@@ -40,27 +46,47 @@ A dependency-free Python toolkit for common DNA analyses, with both a command li
 - Restriction-site mapping, including sites that span the origin of a circular molecule
 - FASTA parsing with record-level validation and readable error messages
 
+There is no hosted demo for this project yet. To run it locally, clone the repository and follow the README.
+
 ---
 
 ## Other projects
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [CarbonWise](https://carbonwise-sigma.vercel.app) | Estimates an annual carbon footprint from transport, electricity, flights and diet, then gives tailored advice | Next.js, React, TypeScript |
-| [Smart Lab Assistant](https://smart-lab-assistant.vercel.app) | Generates lab procedures, material lists and safety notes for students, via a serverless API | HTML, JavaScript, serverless |
+**CarbonWise** estimates an annual carbon footprint from transport, electricity, flights and diet, then gives tailored advice. Built with Next.js, React and TypeScript.
+
+[Live demo](https://carbonwise-sigma.vercel.app) · [Source](https://github.com/manojkumarmansingh/carbonwise)
+
+**Smart Lab Assistant** generates lab procedures, material lists and safety notes for students through a serverless API. Built with HTML, JavaScript and a serverless function.
+
+[Live demo](https://smart-lab-assistant.vercel.app) · [Source](https://github.com/manojkumarmansingh/Smart-Lab-Assistant)
 
 ---
 
 ## Tools I work with
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## GitHub at a glance
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=manojkumarmansingh&show_icons=true&hide=contribs&theme=tokyonight&border_radius=8" alt="GitHub statistics" width="420">
+
+</div>
 
 ---
 
